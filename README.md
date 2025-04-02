@@ -1,4 +1,4 @@
-# Raw Node.js API Project
+# Raw Node.js Project Setup Guide Info
 
 ## Node Version Check
 Ensure you have Node.js installed. You can check the version using:
